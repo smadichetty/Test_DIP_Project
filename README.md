@@ -217,14 +217,23 @@ This project successfully designed a morphological matching system with a GUI th
 References:
 
 •	Giang Hong Nguyen 1,2 *, Yen Thi Hoang Hua 1,3, Linh Chi Nguyen 1,3, Liet Van Dang 1,3 “Image Enhancement Using Bidimensional Empirical Mode Decomposition and Morphological Operations for Brain Tumor Detection and Classification”.
+
 •	A.M.Raid1 , W.M.Khedr2 , M.A.El-dosuky1 and Mona Aoud1 1 Mansoura University, Faculty of Computer Science and Information System 2 Zagazig University, Faculty of Science “IMAGE RESTORATION BASED ON MORPHOLOGICAL OPERATIONS”.
+
 •	R. C. Gonzalez, R.E. Woods, “Digital Image Processing”, 2nd Edition. 
-•	S. W. Smith, “Chapter 25: Special Imaging Techniques”, 
+
+•	S. W. Smith, “Chapter 25: Special Imaging Techniques”.https://www.dspguide.com/ch25/4.htm 
+
 •	Tekam M. “Morphological transformations for enhancement of images with poor contrast and detection of background. IJIREEICE. 2015;3:16-20. https://doi.org/10.17148/IJIREEICE.2015.31104”
+
 •	Widyantara IM. “Image enhancement using morphological contrast enhancement for video based image analysis”. 2016.
+
 •	 Hassanpour H, Samadiani N, Salehi SM. “Using morphological
 transforms to enhance the contrast of medical images”. Egypt J Radiol Nucl Med. 2015;46:481-9. https://doi.org/10.1016/j.ejrnm.2015.01.004
+
 •	https://www.geeksforgeeks.org/image-segmentation-using-morphological-operation/
+
 •	https://stackoverflow.com/questions/56183201/detect-and-visualize-differences-between-two-images-with-opencv-python
+
 •	https://www.mathworks.com/matlabcentral/fileexchange/24224-magic-matlab-generic-imaging-component
 
