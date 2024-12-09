@@ -102,6 +102,31 @@ The GUI is built using MATLAB App Designer, providing a rich, platform-independe
 
 4. Implementation
 
+Requirement Resources (Windows/Linux): 
+
+The project can be implemented on both Windows and Linux platforms. Here are the specific resource requirements:
+
+Hardware Requirements:
+
+A computer system with at least 4 GB of RAM (8 GB recommended for larger datasets).
+A dual-core processor or higher.
+At least 10 GB of free disk space for storing datasets and dependencies.
+
+Software Requirements:
+
+Python (version 3.6 or higher) with necessary libraries:
+OpenCV (for image processing)
+Tkinter (for GUI development)
+NumPy (for numerical computations)
+PIL (for handling image formats in GUI)
+MATLAB (for MATLAB implementation) with the Image Processing Toolbox.
+Operating system: Windows 10/11 or Ubuntu 18.04 or higher.
+Optional: Flask or Django for web-based deployment if future enhancements are needed.
+Development Tools:
+
+Integrated Development Environment (IDE): PyCharm, VSCode, or MATLAB App Designer for GUI creation.
+Libraries for visualization and plotting (e.g., Matplotlib if visualization is needed in Python).
+
 The project is implemented in both Python and MATLAB, utilizing their respective strengths:
 
 Python Version
@@ -187,4 +212,19 @@ Finally, the system could be deployed as a web application using Flask or Django
 8. Conclusion
 
 This project successfully designed a morphological matching system with a GUI that performs the intended image analysis. The aims of the system are acquitted in the realm of efficient preprocessing, feature extraction, measurement of similarity, and interaction with the user. The system can become very productive, with further refinement, in medicine, forensics, or geospatial studies. The power of morphological analysis in image processing was brought to the fore comprehensively in this project and provided a solid grounding for future research and development in this area.
+
+
+References:
+
+•	Giang Hong Nguyen 1,2 *, Yen Thi Hoang Hua 1,3, Linh Chi Nguyen 1,3, Liet Van Dang 1,3 “Image Enhancement Using Bidimensional Empirical Mode Decomposition and Morphological Operations for Brain Tumor Detection and Classification”.
+•	A.M.Raid1 , W.M.Khedr2 , M.A.El-dosuky1 and Mona Aoud1 1 Mansoura University, Faculty of Computer Science and Information System 2 Zagazig University, Faculty of Science “IMAGE RESTORATION BASED ON MORPHOLOGICAL OPERATIONS”.
+•	R. C. Gonzalez, R.E. Woods, “Digital Image Processing”, 2nd Edition. 
+•	S. W. Smith, “Chapter 25: Special Imaging Techniques”, 
+•	Tekam M. “Morphological transformations for enhancement of images with poor contrast and detection of background. IJIREEICE. 2015;3:16-20. https://doi.org/10.17148/IJIREEICE.2015.31104”
+•	Widyantara IM. “Image enhancement using morphological contrast enhancement for video based image analysis”. 2016.
+•	 Hassanpour H, Samadiani N, Salehi SM. “Using morphological
+transforms to enhance the contrast of medical images”. Egypt J Radiol Nucl Med. 2015;46:481-9. https://doi.org/10.1016/j.ejrnm.2015.01.004
+•	https://www.geeksforgeeks.org/image-segmentation-using-morphological-operation/
+•	https://stackoverflow.com/questions/56183201/detect-and-visualize-differences-between-two-images-with-opencv-python
+•	https://www.mathworks.com/matlabcentral/fileexchange/24224-magic-matlab-generic-imaging-component
 
